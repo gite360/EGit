@@ -12,8 +12,7 @@
 			<table>
 				<tr>
 					<td>
-						用户名:
-					</td>
+						用户名:</td>
 					<td>
 						<input type="text" name="name" />
 					</td>
