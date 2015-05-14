@@ -11,7 +11,7 @@
 	
 	function addShop()
 	{
-		var myform=document.forms[0];
+		var myform=document.forms[0];//hehe 
 		myform.action="shop/addShop";
 		myform.method="post";
 		myform.submit();
